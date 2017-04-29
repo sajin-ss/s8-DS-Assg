@@ -24,7 +24,7 @@ Terminal 2:
 $ java MulticastSocketClient2
 
 
-Terminal 1: 
+Terminal 3: 
 ------------
 $ java MulticastSocketServer
 
