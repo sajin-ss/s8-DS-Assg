@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public class MulticastSocketServer {
+public class MulticastServer {
     
     final static String INET_ADDR = "224.0.0.5";
     final static int port = 5678;
