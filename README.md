@@ -3,10 +3,12 @@ Multicast socket Java
 
 Usage:
 
-Compile
+Compile:
 
 $javac MulticastSocketServer.java 
+
 $javac MulticastSocketClient1.java 
+
 $javac MulticastSocketClient2.java 
 
 
